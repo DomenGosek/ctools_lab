@@ -130,7 +130,7 @@ See table [Boards - Examples](README.md#boards-\--examples).
 |IMXRT1050-EVKB        | [x]    | [x]           | [x] UART\# 3      | [ ]                | [x] UART\# 3       | [ ]           | [x]               |
 |LPC54018-IoT-Module   | [x]    | [x]           | [ ]               | [ ]                | [ ]                | [x]           | [ ]               |
 |LPCXpresso55S69       | [x]    | [x]           | [x] UART\# 2      | [x] SPI\# 8        | [x] UART\# 2       | [ ]           | [ ]               |
-|MCB4300               | [x]    | [x]           | [ ]               | [ ]                | [ ]                | [ ]           | [x]               |
+|MCB4300               | [ ]    | [x]           | [ ]               | [ ]                | [ ]                | [ ]           | [x]               |
 |MIMXRT1064-EVK        | [x]    | [x]           | [x] UART\# 3      | [ ]                | [x] UART\# 3       | [ ]           | [x]               |
 |Musca-S1              | [x]    | [x]           | [x] UART\# 0      | [ ]                | [x] UART\# 0       | [ ]           | [ ]               |
 |NUCLEO-G474RE         | [x]    | [ ]           | [ ]               | [ ]                | [ ]                | [ ]           | [ ]               |
@@ -139,3 +139,4 @@ See table [Boards - Examples](README.md#boards-\--examples).
 |STM32H745I-DISCO      | [x]    | [ ]           | [ ]               | [ ]                | [ ]                | [ ]           | [ ]               |
 |STM32L562E-DK         | [x]    | [x]           | [x] UART\# 6      | [x] SPI\# 3        | [x] UART\# 6       | [ ]           | [ ]               |
 |AVH_MPS3_Corstone-300 | [x]    | [x]           | [ ]               | [ ]                | [ ]                | [ ]           | [x]               |
+|AVH_MPS2_Cortex-M7    | [x]    | [x]           | [ ]               | [ ]                | [ ]                | [ ]           | [x]               |
